@@ -10,13 +10,6 @@ A full-stack hospital management platform built to streamline patient care, appo
 
 Hospitals often rely on disconnected systems and manual processes that slow down patient care and increase administrative work. MEDX aims to provide a centralized platform where healthcare professionals can securely manage patients, appointments, and medical records.
 
-This project is being developed as a portfolio project demonstrating:
-
-- Technical Program Management
-- Software Engineering
-- System Analysis & Design
-- Full-Stack Development
-- Agile Project Management
 
 ---
 
